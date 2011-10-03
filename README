@@ -1,0 +1,40 @@
+NAME
+    WWW::3172::Crawler::WebInterface - Provides a web frontend to
+    WWW::3172::Crawler
+
+VERSION
+    version 0.001
+
+AVAILABILITY
+    The latest version of this module is available from the Comprehensive
+    Perl Archive Network (CPAN). Visit <http://www.perl.com/CPAN/> to find a
+    CPAN site near you, or see
+    <http://search.cpan.org/dist/WWW-3172-Crawler-WebInterface/>.
+
+    The development version lives at
+    <http://github.com/doherty/WWW-3172-Crawler-WebInterface> and may be
+    cloned from
+    <git://github.com/doherty/WWW-3172-Crawler-WebInterface.git>. Instead of
+    sending patches, please fork this project using the standard git and
+    github infrastructure.
+
+SOURCE
+    The development version is on github at
+    <http://github.com/doherty/WWW-3172-Crawler-WebInterface> and may be
+    cloned from <git://github.com/doherty/WWW-3172-Crawler-WebInterface.git>
+
+BUGS AND LIMITATIONS
+    No bugs have been reported.
+
+    Please report any bugs or feature requests through the web interface at
+    <http://rt.cpan.org>.
+
+AUTHOR
+    Mike Doherty <doherty@cpan.org>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2011 by Mike Doherty.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+

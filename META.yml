@@ -1,0 +1,37 @@
+---
+abstract: 'Provides a web frontend to WWW::3172::Crawler'
+author:
+  - 'Mike Doherty <doherty@cpan.org>'
+build_requires:
+  Dancer::Test: 0
+  File::Find: 0
+  File::Temp: 0
+  Module::Build: 0.3601
+  Test::Mock::LWP::Dispatch: 0
+  Test::More: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300002, CPAN::Meta::Converter version 2.112150'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: WWW-3172-Crawler-WebInterface
+no_index:
+  directory:
+    - corpus
+requires:
+  Dancer: 0
+  Dancer::Plugin::DataFu: 0
+  Data::Table: 0
+  HTML::Entities: 0
+  List::UtilsBy: 0
+  WWW::3172::Crawler: 0
+  perl: 5.006
+  strict: 0
+  warnings: 0
+resources:
+  repository: git://github.com/doherty/WWW-3172-Crawler-WebInterface.git
+version: 0.001

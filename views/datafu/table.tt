@@ -1,0 +1,10 @@
+<table id="grid_[% name %]" name="grid_[% name %]">
+    <thead>
+        [% columns %]
+        [% header -%]
+    </thead>
+    <tbody>
+        [% rows %]
+        [% navigation %]
+    </tbody>
+</table>
